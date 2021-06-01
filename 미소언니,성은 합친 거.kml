@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>미소언니,성은 합친 거</name>
+    <description/>
+    <Style id="icon-1739-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1739-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1739-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1739-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1739-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>횡단보도 O</name>
+      <Placemark>
+        <name>학성공원사거리 울산약국 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.337061,35.556439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>학성공원사거리 인력산업 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.337258,35.555504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>복산성당 교통섬</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.328073,35.558522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>반구사거리 교통섬 울산H병원 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.340801,35.558368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>반구사거리 교통섬 스포츠재활</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.341877,35.557888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>반구시장 김밥천국 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.343883,35.559215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>복산사거리 피자스쿨 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.33604,35.563793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>복산사거리 던킨도너츠 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.336429,35.564031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영오거리 교통섬 하나로마트 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.343503,35.56784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>구철길사거리 교통섬 낙지한마당 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.340536,35.558717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>홈플러스 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.334889,35.564402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>중앙전통시장 입구</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.323739,35.554655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태화루 사거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.308411,35.553379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태화시장 입구</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.306531,35.554095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>함월고 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.297311,35.561341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>함월고 맞은편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.297431,35.560412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>다운사거리 북카페 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.275886,35.55613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>다운사거리 북카페 맞은편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.276823,35.555648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>다운사거리 쌈지상설할인매장</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.275358,35.555827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영사거리 피자빙고 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.346161,35.569486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영사거리 배스킨라빈스 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.345715,35.569369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영사거리 BF편의점</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.345878,35.568771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영오거리 병영 정형외과 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.343965,35.568162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>반구시장 롯데리아 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.343747,35.559784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>외솔중학교 후문</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.342759,35.584868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>외솔중학교 후문 맞은편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.342856,35.58513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>복산사거리 삼성디지털플라자 방면</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.33602,35.564756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>북부 순환도로 609 (복산 삼거리)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.326767,35.563535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC 사거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.331136,35.561616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>스타벅스 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.320338,35.553308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>선경맨션 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.301096,35.558255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남목삼거리(SK텔레콤 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.424349,35.539602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>안산사거리(CU편의점 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.426703,35.539339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>안산사거리(애니카랜드 맞은편)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.426794,35.538957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>명덕삼거리 교통섬(현대백화점 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.432435,35.522086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남목 장승사거리(동부패밀리아파트 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.429214,35.542014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>홈플러스 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.42802,35.498852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>안산사거리(휴대폰초특가매장 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.427189,35.539068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울주 문화예술회관 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.232079,35.564442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>장검교차로(원예농협하나로마트 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2546811,35.5583447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>장검교차로(타이어뱅크 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2548916,35.5582988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>늘푸른정형외과 건너편(구영2차푸르지오 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.241089,35.575659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>늘푸른정형외과 건너편(우미린아파트 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2410193,35.5758728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>온산읍행정복지센터 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3138477,35.4342205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>언양읍행정복지센터 뒤 맞은편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1250745,35.569932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>언양읍행정복지센터 뒤</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1252905,35.5699156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남창2교 사거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2802095,35.4161303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>군청사 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2431359,35.5218773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>장검중학교 맞은편(문수산푸르지오 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2456298,35.5505054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>온산농협 하나로마트 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3120679,35.4338044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>덕신소공원 맞은편(재호공인중개사 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3119467,35.4340344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남천교사거리 교통섬</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1220421,35.5637174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>언양한라빌리지 앞(서울산두산위브 건너편)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1156803,35.5680469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>언삼교사거리 횡단보도</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1172419,35.5647282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GS25(울산상남점) 앞(덕하 한양수자인 건너편)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3005672,35.487291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>덕하 한양수자인 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.300712,35.4876496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>동문마을복지회관 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2094647,35.4646343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산산업고등학교 앞 사거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1178036,35.5535767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>구영우미린 2차 701동 앞(우리은행 건너편)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2427318,35.5737359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>구영푸르지오 505동 앞(파리바게트 건너편)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2429292,35.57381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울산두산위브 정문 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.115801,35.5682179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>구영 2차 푸르지오 정문 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.242081,35.5759605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울주군 국민체육센터 앞 횡단보도</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2438581,35.574149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>굴화 맥도날드 건너편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2625527,35.55606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>굴화 맥도날드 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2626975,35.5562433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>천상리 문수애시앙 4거리(천상부동산 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.231331,35.5620232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>천상리 문수애시앙 4거리(문수애시앙 상가 한의원)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2315295,35.5619795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>덕신소공원 앞 횡단보도</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.31189,35.4338743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>천상리 문수애시앙 4거리(문수애시앙 201동 앞)</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.231669,35.5622065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>온산파출소 옆 횡단보도</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3062955,35.4339321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>언양읍성 안내소 앞 횡단보도</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1225916,35.5664263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTX울산역 동문굿모닝힐 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1309327,35.5569892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTX울산역 동문굿모닝힐 건너편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1312331,35.5572074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTX울산역 우성스마트시티 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1312116,35.5567885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTX울산역 우성스마트시티 건너편</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.1314584,35.5570067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>옥동초사거리 경남은행 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2980456,35.5339176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>동서오거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3157204,35.5304956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대흥교회 앞 </name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3038444,35.5329876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수암시장 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3202263,35.5284024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신정시장 IBK기업은행 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3110912,35.5429456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신정4동 행정복지센터 입구 새마을금고 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3140558,35.5308706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남부교회입구사거리 배스킨라빈스 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3104308,35.5446536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>팔등로사거리 울산신정푸르지오 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3174721,35.5467352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>강남로남측사거리 강변센트럴하이츠 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.315187,35.5481866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>공영주차장입구사거리 옆</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3122125,35.5315815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>시청사거리 하나은행 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3129285,35.5383061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>달동사거리 롯데마트 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3145527,35.5340352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남구청사거리 문화공원 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3294138,35.5434034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>문화예술회관 사거리 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3265012,35.5419203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>목화예식장 사거리</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3315193,35.538324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태화강역 알리바바모텔 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3515723,35.5397057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>중리사거리 평창 3차 방면</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3395998,35.5441614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>중리사거리 하나투어 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3397929,35.5441505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>중리사거리 밥집 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.339581,35.5439999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>중리사거리 정수기나라 앞</name>
+        <styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3397688,35.5439934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>횡단보도 X</name>
+      <Placemark>
+        <name>병영 약사천 1</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.344408,35.568516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영 약사천 2</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.344333,35.568512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영 약사천 3</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.344263,35.568494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>함월 노인복지관 1</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.296553,35.561366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>함월 노인복지관 2</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.296477,35.561379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>함월 노인복지관 3</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.296611,35.561364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>반구어린이집 내</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.345047,35.558774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산어린이집 내 1</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.305192,35.555843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산어린이집 내 2</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.30531,35.55573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>옥교어린이집 내 1</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.330169,35.552585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>옥교어린이집 내 2</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.330219,35.552545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>병영어린이집 내</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.344846,35.571299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>우정선경 2차 아파트</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.308332,35.557903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>공룡발자국공원</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.30719,35.562958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>다운동 (입화산 참살이숲 어린이놀이터)</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.277451,35.576863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>황방산 생태야영장</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.328986,35.58846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태화연캠핑장</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.286701,35.561758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태화로터리 버스정류장 옆</name>
+        <styleUrl>#icon-1739-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3074712,35.5495576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
